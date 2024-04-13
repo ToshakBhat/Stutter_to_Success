@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722984178213",
+    "project_id": "stutter-to-success",
+    "storage_bucket": "stutter-to-success.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722984178213:android:c20aee3e961fadd89465cc",
+        "android_client_info": {
+          "package_name": "com.example.stutter_to_success"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdV_zbFG8UiSpTpcAqmzl8WkTUJ7yJRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
